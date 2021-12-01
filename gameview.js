@@ -57,4 +57,8 @@ export function clickToTile(x, y)
 const j = Math.floor(x / tileWidth)
 const i = Math.floor(y / tileHeight)
 return [i, j]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9652c0a7ca4c74fc0d3a7524cf80e41976011b58
